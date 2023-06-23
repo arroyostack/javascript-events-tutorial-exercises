@@ -1,1 +1,3 @@
-// your function goes here
+window.addEventListener('load', () => alert('loading finished...'))
+
+
